@@ -1,0 +1,46 @@
+2
+9
+two1nine
+ ---> 21ni9
+2
+9
+8
+3
+eightwothree
+ ---> 8wothre3
+8
+3
+1
+3
+abcone2threexyz
+ ---> abc12th3z
+
+1
+3
+2
+4
+xtwone3four
+ ---> x2ne3fo4
+2
+4
+9
+7
+4nineeightseven2
+ ---> 49eightsev7
+9
+7
+1
+8
+zoneight234
+ ---> z1i84
+
+1
+8
+6
+6
+7pqrstsixteen
+ ---> 7pqrst6en
+
+6
+6
+286
